@@ -8,4 +8,4 @@ TypeORM
 Docker
 ESLint
 
-If you find any vulnerability o improvement, feel free to contribute
+If you find any vulnerability or improvement, feel free to contribute
